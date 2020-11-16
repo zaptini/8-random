@@ -109,7 +109,3 @@ var ty = document.createTextNode(ny0 + " " + ny1 +" ");
 hy.appendChild(ty); 
 document.body.appendChild(hy); 
 
-var h = document.createElement("H6");
-var t = document.createTextNode("Press F5 for new numbers");
-h.appendChild(t); 
-document.body.appendChild(h); 
