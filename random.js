@@ -1,8 +1,8 @@
 //pieci skaitļi līdz 35
 var cipari=[]
 let rnd = 0
-for (var i=0; i<9000000; i++) {
-    rnd = Math.floor(Math.random()*65+1);
+for (var i=0; i<10000000; i++) {
+    rnd = Math.floor(Math.random()*50+1);
     cipari.push(rnd);
     };
 
@@ -48,7 +48,7 @@ n4=parseInt(sortable[1])
 var syortable = []
 var cyipari=[]
 let rynd = 0
-for (var i=0; i<9000000; i++) {
+for (var i=0; i<10000000; i++) {
     rnd = Math.floor(Math.random()*10+1);
     cyipari.push(rnd);
     };
