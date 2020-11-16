@@ -96,7 +96,7 @@ h.appendChild(t);
 document.body.appendChild(h); 
 
 var hi = document.createElement("H2");
-var ti = document.createTextNode(n0 + " " + " | " + " " + n1 + " " + " | " + " " + n2 + " " + " | " + " " + n3 + " " + " | " + " " + n4 +" ");
+var ti = document.createTextNode(n0 + " " + " - " + " " + n1 + " " + " - " + " " + n2 + " " + " - " + " " + n3 + " " + " - " + " " + n4 +" ");
 hi.appendChild(ti); 
 document.body.appendChild(hi); 
 
@@ -105,7 +105,7 @@ document.body.appendChild(hi);
 
 
 var hy = document.createElement("H3");
-var ty = document.createTextNode(ny0 + " " + " | " + " " + ny1 +" ");
+var ty = document.createTextNode(ny0 + " " + " - " + " " + ny1 +" ");
 hy.appendChild(ty); 
 document.body.appendChild(hy); 
 
